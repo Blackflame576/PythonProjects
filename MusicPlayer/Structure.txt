@@ -1,0 +1,4 @@
+playlists = {
+	"name_playlist":"name_track_1","name_track_2"
+	"paths_tracks_playlist":"path1","path2"
+,"path2"}

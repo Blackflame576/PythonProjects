@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "downloadyoutubebot",
+  "private_key_id": "f30012c75f1136d86ddd6413e0f1972bd8910607",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsTw7Z4cD+vDTx\n6zhLVmS+IlYPDPkQvbhhSlvvSw1pMh1a4AypwDBKVAFfYG8rTvgDihKAEX+a/Iv7\nT8AgMnxvOG2WtOyTFBGtXbWWIEWD0N4WheH1Yh3iA5LFq9tyoa/k4x6YnW0cBojy\nXBnpXPuE/89WluVDJ9kE3RYLz0nPEC8b5wnOxLdzbtO+jeaJ95Vh80f5TCBSRkGu\nes8R6PARdLUYyqpwOWGPT6mD0mutwov+bVFMl9EoDibN3MeVA7uo3tvvH1RUX7fO\n9rnsL0+VnA68D+6q08SWscFwwDlLt7oB8fDZNYlUU+Klt3JuCnEjvWj69YEToabP\noO3asRIjAgMBAAECggEAGGp5ccFODiqQHAmXKAG9c7280RQnBMrFYi/duBo788CQ\nrUxbLwCXNykRKrko94uQlDvP5ErWeJk5oqpJ0KYmwMHPsY/AiBTLbnP9Y6D+CLAj\nkDB3dMRq9JhKB22TQnqLyJSwRLLl/5cjd6g6Wbl9wHpZIG1wXiQ62bgURCciz87B\nOz5x/hGhyyZD3sajpWx2/6ViRcT8uJHJ0tTA9dsyv+Pq44S0JVwTg2Id1WlVLj7d\nNl4ltbifTpTYwRTj2t1HFFG/cyx/YHicRqfXFb9NyQBC5odK6MxESIal2XPBB3dK\nrE+8S8UehMuqkgFAM4sngMqpvPz1JoKlDqQOL91WvQKBgQDXpwHoJJdaMKUN0fcT\nwmwQc3+1nuoEw8KeJmOEs0fUhxnfDYU3zpN+N5TuGVDgfJQtwIX9ymLKZEDCzYsf\n+KdvPtwPXJ4FrWWr5dUc5PakLW9FPIMwobBAQfX/Gw5Y5FbYLBche9T0r9PmjFg0\n56x+3wmEtycsYE4A8L3SdnLtJQKBgQDMjAveyX1hii9QtWZj9XRhBcMzb53KTTxM\nccmHsG4CaSjgkARip5io0byn4lWyLu7lgZWPhn+YF4hTiDE10kcZ4Z1b+jodRFtE\npljn7NC6SN8XrwrOtg+gCpuiIkQUAMP+wA1ErPALarp4vPV87zU3CRWvNUzmhDh3\nEWZ+3nIzpwKBgAdeFkuXDHCxXsI1HSrYppZ9S6ypzDbzdS+wAhBji52wK+sZ7CY2\n8YULYxQrWz8AIpPZkvpTssJVYH0HRqyF8zpyvFPuBxwMi3+u73P4QpDjWHzWD2lW\n7M2VM1FO3FOfIXRrNTMYpvLhGu0yeET+cT84YXveQgFbHO8dSm7pSw3dAoGBAKXv\nntmXf72XSpcg8fV5dHYZJKgfjlRFn/sr/B+1wyj1gpHag5Q8/h1GONPBS2AHrwpE\nu735kJ0jyhZpz/InqkKWwv+Q2YBQqfHhORK9DP9yink+KXhUPgzJTkSTo8LOdDHA\nP4NNAFdit++m60f1DqidGBhRFxeSf/QoC4w0jVTVAoGAWNxQC6L8GQnaaBlMjwFq\nWBIFpqqWo51rMLVUhgy30Z1SYEb6p0F3ADcpdT2jZqoaDMhdzHgDBzLWx8z6JIVc\nzOiAVPPdbtKIBlZtvLr1PSiWquG7LQrBtt7SivbzuhG9Rv+T03hkPktP53AHtE+X\nmQ47tSNUuersVGcewWqtv3k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "downloadyoutubebot@downloadyoutubebot.iam.gserviceaccount.com",
+  "client_id": "100637299937183740730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/downloadyoutubebot%40downloadyoutubebot.iam.gserviceaccount.com"
+}
